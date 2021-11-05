@@ -72,7 +72,7 @@ elif pilihan == 3 :
     bunga = 0.1
     pajak = 0.001
 else :
-    print("Silakan pilih antara angka 1-3")
+    exit("Silakan pilih antara angka 1-3")
 
 # SELESAI SET UP PERSONALISASI APLIKASI
 
