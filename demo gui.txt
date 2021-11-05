@@ -1,0 +1,25 @@
+Langkah-Langkah Asumsi dari GUI Aplikasi Financial Manager
+
+Gaji = 10 juta
+
+Setuju dengan bunga (40,30,30)
+
+Bunga deposito
+
+Target = 25 juta
+
+1. Setor 10 juta -> wallet , income
+2. Setor 10 juta -> wallet , income
+3. Tarik 2 juta -> saldo
+4. Tarik 2 juta -> tabungan
+5. Setor 10 juta -> wallet , lainnya
+6. Setor 5 juta -> investasi
+7. Setor 2 juta -> tabungan
+8. Setor 10 juta -> wallet , income
+9. Transfer 2 juta
+10. Setor 5 juta -> wallet , income
+
+Keluar aplikasi
+
+
+
